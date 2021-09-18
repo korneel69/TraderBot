@@ -38,5 +38,9 @@ tips-and-tricks:
 1. make use of colocation (AWS Asia Pacific (Tokyo) Region)
 2. automated restart based on CPU usage (if high, the websockets are down)
 
+Under development:
+1. market making functionality (currently disabled in pairtrader code)
+2. order spacing (200ms requirement by FTX)
+
 Feel free to open an issue if you see improvement points. Participation is highly appreciated.
 
